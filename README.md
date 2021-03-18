@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abyss411
-- 👀 I’m interested in music, game development, programming in general
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Anton, but everybody call me Bashka.
+- 👀 I’m interested in music, game development and programming in general
+- 🌱 I’m currently learning .NET, C# and Unity
 
 <!---
 abyss411/abyss411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
