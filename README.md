@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Anton, but everybody call me Bashka.
+- 👋 Hi, my name is Anton, but everybody call me bashka.
 - 👀 I’m interested in music, game development and programming in general
 - 🌱 I’m currently learning .NET, C# and Unity
 
